@@ -51,12 +51,19 @@ td {
 	margin-right: auto;
 }
 
+#links
+{
+	padding: 8px;
+	font-size: 1.625em;
+}
+
 footer {
 	height: 50px;
 	color: #ffffff;
 	background-color: black;
 	//min-height: 200px;
 }
+
 
 ul 
 {
