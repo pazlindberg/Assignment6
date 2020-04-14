@@ -45,9 +45,14 @@ td:nth-child(odd)
 {
 	font-size: 2em;
 }
+td:nth-child(even):hover
+{
+	color:white;
+}
 
 tr:hover {
 	background-color: #CD342F;
+	outline: thick ridge pink;
 }
 
 a {
@@ -62,6 +67,9 @@ a:visited {
 
 a:hover {
 	text-decoration: underline;
+	outline: dotted;
+	background-color: #CD342F;
+	color:white;
 }
 
 td {
@@ -75,6 +83,7 @@ td {
 	width: 960px;
 	margin-left: auto;
 	margin-right: auto;
+	font-family: Arial, Helvetica, sans-serif;
 }
 
 #links
