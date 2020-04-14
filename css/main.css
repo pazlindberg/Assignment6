@@ -1,0 +1,23 @@
+* {
+	font-size: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	text-align: center;
+	background-color: #99A950;
+	//color: #CD342F;
+}
+
+ul.MENU li {
+	display: inline;
+}
+
+footer {
+	height: 50px;
+	color: #ffffff;
+	background-color: black;
+	//min-height: 200px;
+}
+
