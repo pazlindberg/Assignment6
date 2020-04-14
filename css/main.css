@@ -33,6 +33,10 @@ td:nth-child(odd)
 	font-size: 2em;
 }
 
+tr:hover {
+	background-color: #CD342F;
+}
+
 
 td {
 		text-align: left;
